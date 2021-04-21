@@ -1,0 +1,23 @@
+* {
+    border-radius: 30px;
+    padding: 8px;
+    text-align: center;
+    background: #1b1b1b;
+    color: crimson;
+    font-size: 20px;
+}
+
+body {
+    min-height: 100vh;
+    transition: .5s;
+}
+
+img {
+    margin: 0 auto;
+    height: 200px;
+    visibility: hidden;
+}
+
+.look {
+    visibility: visible;
+}
